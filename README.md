@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 Credits to Opencitations API (https://opencitations.net/index/coci/api/v1)
 
 ## Available Scripts
